@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 440" width="440" height="440">
+  <defs>
+    <linearGradient id="techCardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070a13"/>
+      <stop offset="100%" stop-color="#020409"/>
+    </linearGradient>
+    <linearGradient id="cellBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#090d16"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Outer Card -->
+  <rect x="2" y="2" width="436" height="436" rx="14" fill="url(#techCardBg)" stroke="#1a2333" stroke-width="1.5"/>
+
+  <!-- Card Header -->
+  <text x="220" y="42" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="600" fill="#ffffff" text-anchor="middle">🛠️ Technologies</text>
+
+  <!-- 5x5 Grid Embed using skillicons / high quality icons -->
+  <g transform="translate(30, 68)">
+    <!-- Row 1: AWS, Azure, GCP, Docker, Kubernetes -->
+    <rect x="0" y="0" width="65" height="65" rx="8" fill="url(#cellBg)" stroke="#1e293b" stroke-width="1"/>
+    <image href="https://skillicons.dev/icons?i=aws" x="8" y="8" width="49" height="49"/>
+
+    <rect x="76" y="0" width="65" height="65" rx="8" fill="url(#cellBg)" stroke="#1e293b" stroke-width="1"/>
+    <image href="https://skillicons.dev/icons?i=azure" x="84" y="8" width="49" height="49"/>
+
+    <rect x="152" y="0" width="65" height="65" rx="8" fill="url(#cellBg)" stroke="#1e293b" stroke-width="1"/>
+    <image href="https://skillicons.dev/icons?i=gcp" x="160" y="8" width="49" height="49"/>
+
+    <rect x="228" y="0" width="65" height="65" rx="8" fill="url(#cellBg)" stroke="#1e293b" stroke-width="1"/>
+    <image href="https://skillicons.dev/icons?i=docker" x="236" y="8" width="49" height="49"/>
+
+    <rect x="304" y="0" width="65" height="65" rx="8" fill="url(#cellBg)" stroke="#1e293b" stroke-width="1"/>
+    <image href="https://skillicons.dev/icons?i=kubernetes" x="312" y="8" width="49" height="49"/>
+
+    <!-- Row 2: Terraform, Linux, Bash, Git, GitHub -->
+    <rect x="0" y="72" width="65" height="65" rx="8" fill="url(#cellBg)" stroke="#1e293b" stroke-width="1"/>
+    <image href="https://skillicons.dev/icons?i=terraform" x="8" y="80" width="49" height="49"/>
+
+    <rect x="76" y="72" width="65" height="65" rx="8" fill="url(#cellBg)" stroke="#1e293b" stroke-width="1"/>
+    <image href="https://skillicons.dev/icons?i=linux" x="84" y="80" width="49" height="49"/>
+
+    <rect x="152" y="72" width="65" height="65" rx="8" fill="url(#cellBg)" stroke="#1e293b" stroke-width="1"/>
+    <image href="https://skillicons.dev/icons?i=bash" x="160" y="80" width="49" height="49"/>
+
+    <rect x="228" y="72" width="65" height="65" rx="8" fill="url(#cellBg)" stroke="#1e293b" stroke-width="1"/>
+    <image href="https://skillicons.dev/icons?i=git" x="236" y="80" width="49" height="49"/>
+
+    <rect x="304" y="72" width="65" height="65" rx="8" fill="url(#cellBg)" stroke="#1e293b" stroke-width="1"/>
+    <image href="https://skillicons.dev/icons?i=github" x="312" y="80" width="49" height="49"/>
+
+    <!-- Row 3: Python, JavaScript, TypeScript, React, Node.js -->
+    <rect x="0" y="144" width="65" height="65" rx="8" fill="url(#cellBg)" stroke="#1e293b" stroke-width="1"/>
+    <image href="https://skillicons.dev/icons?i=py" x="8" y="152" width="49" height="49"/>
+
+    <rect x="76" y="144" width="65" height="65" rx="8" fill="url(#cellBg)" stroke="#1e293b" stroke-width="1"/>
+    <image href="https://skillicons.dev/icons?i=js" x="84" y="152" width="49" height="49"/>
+
+    <rect x="152" y="144" width="65" height="65" rx="8" fill="url(#cellBg)" stroke="#1e293b" stroke-width="1"/>
+    <image href="https://skillicons.dev/icons?i=ts" x="160" y="152" width="49" height="49"/>
+
+    <rect x="228" y="144" width="65" height="65" rx="8" fill="url(#cellBg)" stroke="#1e293b" stroke-width="1"/>
+    <image href="https://skillicons.dev/icons?i=react" x="236" y="152" width="49" height="49"/>
+
+    <rect x="304" y="144" width="65" height="65" rx="8" fill="url(#cellBg)" stroke="#1e293b" stroke-width="1"/>
+    <image href="https://skillicons.dev/icons?i=nodejs" x="312" y="152" width="49" height="49"/>
+
+    <!-- Row 4: Tailwind, Bootstrap, PostgreSQL, MySQL, MongoDB -->
+    <rect x="0" y="216" width="65" height="65" rx="8" fill="url(#cellBg)" stroke="#1e293b" stroke-width="1"/>
+    <image href="https://skillicons.dev/icons?i=tailwind" x="8" y="224" width="49" height="49"/>
+
+    <rect x="76" y="216" width="65" height="65" rx="8" fill="url(#cellBg)" stroke="#1e293b" stroke-width="1"/>
+    <image href="https://skillicons.dev/icons?i=bootstrap" x="84" y="224" width="49" height="49"/>
+
+    <rect x="152" y="216" width="65" height="65" rx="8" fill="url(#cellBg)" stroke="#1e293b" stroke-width="1"/>
+    <image href="https://skillicons.dev/icons?i=postgres" x="160" y="224" width="49" height="49"/>
+
+    <rect x="228" y="216" width="65" height="65" rx="8" fill="url(#cellBg)" stroke="#1e293b" stroke-width="1"/>
+    <image href="https://skillicons.dev/icons?i=mysql" x="236" y="224" width="49" height="49"/>
+
+    <rect x="304" y="216" width="65" height="65" rx="8" fill="url(#cellBg)" stroke="#1e293b" stroke-width="1"/>
+    <image href="https://skillicons.dev/icons?i=mongodb" x="312" y="224" width="49" height="49"/>
+
+    <!-- Row 5: Redis, Postman, VS Code, Vercel, NGINX -->
+    <rect x="0" y="288" width="65" height="65" rx="8" fill="url(#cellBg)" stroke="#1e293b" stroke-width="1"/>
+    <image href="https://skillicons.dev/icons?i=redis" x="8" y="296" width="49" height="49"/>
+
+    <rect x="76" y="288" width="65" height="65" rx="8" fill="url(#cellBg)" stroke="#1e293b" stroke-width="1"/>
+    <image href="https://skillicons.dev/icons?i=postman" x="84" y="296" width="49" height="49"/>
+
+    <rect x="152" y="288" width="65" height="65" rx="8" fill="url(#cellBg)" stroke="#1e293b" stroke-width="1"/>
+    <image href="https://skillicons.dev/icons?i=vscode" x="160" y="296" width="49" height="49"/>
+
+    <rect x="228" y="288" width="65" height="65" rx="8" fill="url(#cellBg)" stroke="#1e293b" stroke-width="1"/>
+    <image href="https://skillicons.dev/icons?i=vercel" x="236" y="296" width="49" height="49"/>
+
+    <rect x="304" y="288" width="65" height="65" rx="8" fill="url(#cellBg)" stroke="#1e293b" stroke-width="1"/>
+    <image href="https://skillicons.dev/icons?i=nginx" x="312" y="296" width="49" height="49"/>
+  </g>
+</svg>
