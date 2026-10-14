@@ -1,19 +1,32 @@
 <div align="center">
 
 <!-- ======================================================== -->
-<!-- ⚔️ ANIME / CYBERPUNK HUD BANNER                          -->
+<!-- ⚡ NEON MECHA / ANIME HUD BANNER                         -->
 <!-- ======================================================== -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,40:18181b,75:581c87,100:030712&height=250&section=header&text=⚡%20MUAZ%20PATHAN%20⚡&fontSize=46&fontColor=38bdf8&fontAlignY=40&desc=BCA%20Student%20%7C%20Aspiring%20Cloud%20Architect&descAlignY=62&descSize=16&descAlign=50&stroke=a855f7&strokeWidth=1" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,40:18181b,75:581c87,100:030712&height=250&section=header&text=⚡%20MUAZ%20PATHAN%20⚡&fontSize=46&fontColor=38bdf8&fontAlignY=40&desc=BCA%20Student%20%7C%20Aspiring%20Cloud%20Architect&descAlignY=62&descSize=16&descAlign=50&stroke=a855f7&strokeWidth=1" width="100%" alt="Header Banner" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=slice&color=0:020617,25:1e1035,60:4c0519,100:09090b&height=260&section=header&text=⚡%20MUAZ%20PATHAN%20⚡&fontSize=52&fontColor=00f2fe&fontAlignY=36&desc=BCA%20STUDENT%20%E2%97%86%20ASPIRING%20CLOUD%20ARCHITECT&descAlignY=58&descSize=16&descAlign=50&stroke=ec4899&strokeWidth=1.5" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:020617,25:1e1035,60:4c0519,100:09090b&height=260&section=header&text=⚡%20MUAZ%20PATHAN%20⚡&fontSize=52&fontColor=00f2fe&fontAlignY=36&desc=BCA%20STUDENT%20%E2%97%86%20ASPIRING%20CLOUD%20ARCHITECT&descAlignY=58&descSize=16&descAlign=50&stroke=ec4899&strokeWidth=1.5" width="100%" alt="Muaz Pathan Anime HUD" />
 </picture>
 
-<!-- Dynamic Typewriter (Cyber Terminal Style) -->
+<!-- Anime Coding Companion & Cyber Visual Matrix -->
+<table border="0" style="background: transparent; border: none;">
+  <tr align="center">
+    <td>
+      <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="310" height="175" style="border-radius: 12px; border: 2px solid #ec4899; box-shadow: 0 0 20px #ec489955;" alt="Anime Cyber Matrix" />
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="310" height="175" style="border-radius: 12px; border: 2px solid #00f2fe; box-shadow: 0 0 20px #00f2fe55;" alt="Lofi Anime Coding" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Japanese HUD Terminal Typewriter -->
 <a href="https://muazpathan.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=650&lines=%E3%80%8E+BCA+Student+%E2%80%A2+Aspiring+Cloud+Architect+%E3%80%8F;System+Status%3A+Deploying+Multi-Cloud+Clusters...;Syncing+Terraform+Modules+%26+Kubernetes+Pods;Zero-Trust+Security+Protocol%3A+ENGAGED" alt="Anime Subtitle Tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=18&pause=1000&color=00F2FE&center=true&vCenter=true&random=false&width=650&lines=%E3%80%8A%E7%B3%BB%E7%B5%B1%E8%B5%B7%E5%8B%95%E3%80%8B+BCA+Student+%E2%80%A2+Aspiring+Cloud+Architect;Multi-Cloud+Deployments+%3A%3A+AWS+%E2%80%A2+AZURE+%E2%80%A2+GCP;Orchestrating+K8s+Pods+%26+Terraform+Modules;Leveling+Up+DevOps+Skills+Daily+%E2%9A%A1" alt="Anime Terminal HUD" />
 </a>
 
-</div>
 <br/><br/>
 
 <!-- ======================================================== -->
