@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero-dashboard.svg" width="100%" alt="Muaz Pathan Hero Dashboard" />
+<img src="./assets/hero-dashboard.svg" width="200%" alt="Muaz Pathan Hero Dashboard" />
 
 <br/><br/>
 
@@ -29,12 +29,9 @@
 
 ### 👨‍💻 Executive Summary & Core Mandate
 
-> BCA Student and aspiring Cloud Architect specializing in multi-region infrastructure design, enterprise migration, zero-downtime microservices deployments, and automated cloud governance. Focused on maximizing high availability (99.99% SLAs), strictly enforcing Zero-Trust security policies, and optimizing cloud spend through comprehensive FinOps practices.
+> BCA Student and aspiring Cloud Architect specializing in multi-region infrastructure design, enterprise migration, zero-downtime microservices deployments, and automated cloud governance.Strictly enforcing Zero-Trust security policies, and optimizing cloud spend through comprehensive FinOps practices.
 
-* 🔭 **I’m currently working on**: Multi-cloud infrastructure orchestration via **Terraform Enterprise**, autoscaling **Kubernetes (EKS/GKE/AKS)** clusters, and GitOps delivery pipelines.
-* 👯 **I’m looking to collaborate on**: Production-grade Cloud-Native tools, distributed message brokers, and enterprise-grade IaC modules.
-* 🤝 **I’m looking for help with**: Advanced eBPF-based kernel observability and large-scale multi-region FinOps automated chargeback models.
-* 🌱 **I’m currently learning**: Istio Service Mesh policy topologies, OpenTelemetry distributed tracing at scale, and Chaos Engineering.
+
 * 💬 **Ask me about**: AWS / Azure / GCP architectures, Docker, Kubernetes, Terraform, microservices, Linux kernel tuning, and Site Reliability Engineering (SRE).
 * ⚡ **Fun fact**: *"There is no cloud; it's just someone else's computer... until the first invoice drops."*
 
