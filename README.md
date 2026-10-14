@@ -1,18 +1,19 @@
 <div align="center">
 
 <!-- ======================================================== -->
-<!-- 🚀 EXECUTIVE HERO BANNER                                 -->
+<!-- ⚔️ ANIME / CYBERPUNK HUD BANNER                          -->
 <!-- ======================================================== -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0a0a0a,100:111827&height=220&section=header&text=MUAZ%20PATHAN&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=BCA%20Student%20%7C%20Aspiring%20Cloud%20Architect&descAlignY=64&descSize=16&descAlign=50&stroke=3b82f6&strokeWidth=1" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0a0a0a,100:111827&height=220&section=header&text=MUAZ%20PATHAN&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=BCA%20Student%20%7C%20Aspiring%20Cloud%20Architect&descAlignY=64&descSize=16&descAlign=50&stroke=3b82f6&strokeWidth=1" width="100%" alt="Header Banner" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,40:18181b,75:581c87,100:030712&height=250&section=header&text=⚡%20MUAZ%20PATHAN%20⚡&fontSize=46&fontColor=38bdf8&fontAlignY=40&desc=BCA%20Student%20%7C%20Aspiring%20Cloud%20Architect&descAlignY=62&descSize=16&descAlign=50&stroke=a855f7&strokeWidth=1" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,40:18181b,75:581c87,100:030712&height=250&section=header&text=⚡%20MUAZ%20PATHAN%20⚡&fontSize=46&fontColor=38bdf8&fontAlignY=40&desc=BCA%20Student%20%7C%20Aspiring%20Cloud%20Architect&descAlignY=62&descSize=16&descAlign=50&stroke=a855f7&strokeWidth=1" width="100%" alt="Header Banner" />
 </picture>
 
-<!-- Dynamic Animated Typewriter -->
+<!-- Dynamic Typewriter (Cyber Terminal Style) -->
 <a href="https://muazpathan.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=60A5FA&center=true&vCenter=true&random=false&width=650&lines=BCA+Student+%E2%80%A2+Aspiring+Cloud+Architect;Multi-Cloud+Infrastructure+%7C+AWS+%E2%80%A2+Azure+%E2%80%A2+GCP;Kubernetes+Cluster+Orchestration+%26+Service+Mesh;Enterprise+IaC+with+Terraform+%26+Automated+CI%2FCD" alt="Cloud Architecture Dynamic Tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=650&lines=%E3%80%8E+BCA+Student+%E2%80%A2+Aspiring+Cloud+Architect+%E3%80%8F;System+Status%3A+Deploying+Multi-Cloud+Clusters...;Syncing+Terraform+Modules+%26+Kubernetes+Pods;Zero-Trust+Security+Protocol%3A+ENGAGED" alt="Anime Subtitle Tagline" />
 </a>
 
+</div>
 <br/><br/>
 
 <!-- ======================================================== -->
