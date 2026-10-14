@@ -6,7 +6,7 @@
 <table border="0" style="background: #fdfbf7; border: 3px solid #111827; border-radius: 18px; box-shadow: 6px 6px 0px #111827; padding: 12px 24px; margin-bottom: 24px;">
   <tr>
     <td align="left">
-      <font size="4"><b>The Muaz Era 💎</b></font>
+      <font size="4"><b>Mr. Muaz Pathan</b></font>
     </td>
     <td align="right">
       <a href="https://muazpathan.vercel.app" target="_blank">
@@ -114,7 +114,7 @@
 </table>
 
 <br/><br/>
-
+</div>
 <!-- ======================================================== -->
 <!-- 🌐 TOP NAVIGATION (SQUARE DARK APP TILES)                -->
 <!-- ======================================================== -->
