@@ -90,20 +90,19 @@
 ### 📊 Real-Time GitHub Analytics
 
 <div align="center">
-  <!-- GitHub Activity Graph (Never hits the Vercel PAT rate limit) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muazpathan&theme=tokyo-night&area=true&hide_border=false" width="100%" alt="Muaz Pathan Activity Graph" />
-
-  <br/><br/>
-
-  <!-- Top Languages via DenverCoder alternative -->
-  <img src="https://github-readme-stats-git-masterrstacruz-anurag-hazras-projects.vercel.app/api/top-langs/?username=muazpathan&layout=compact&theme=tokyonight" alt="Top Languages" />
-  
-  <br/><br/>
-
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com/?user=muazpathan&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muazpathan&show_icons=true&theme=tokyonight&hide_border=false" alt="Muaz Pathan's GitHub Stats" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muazpathan&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muazpathan&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
-
 ### 🧲 Contact
 
 <div align="center">
