@@ -43,3 +43,117 @@
 
 * 🔭 **I’m currently working on**: Multi-cloud infrastructure orchestration via **Terraform Enterprise**, autoscaling **Kubernetes (EKS/GKE/AKS)** clusters, and GitOps delivery pipelines.
 * 👯 **I’m looking to collaborate on**: Production-grade Cloud-Native tools, distributed message brokers, and enterprise-grade IaC modules.
+* 🤝 **I’m looking for help with**: Advanced eBPF-based kernel observability and large-scale multi-region FinOps automated chargeback models.
+* 🌱 **I’m currently learning**: Istio Service Mesh policy topologies, OpenTelemetry distributed tracing at scale, and Chaos Engineering.
+* 💬 **Ask me about**: AWS / Azure / GCP architectures, Docker, Kubernetes, Terraform, microservices, Linux kernel tuning, and Site Reliability Engineering (SRE).
+* ⚡ **Fun fact**: *"There is no cloud; it's just someone else's computer... until the first invoice drops."*
+
+<br/>
+
+---
+
+### 🛠️ Technologies & Platforms (Square Dark App Tiles)
+
+<div align="center">
+
+<!-- Row 1: Cloud Providers & Edge Platforms -->
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase,cloudflare,vercel,netlify&theme=dark" alt="Cloud Providers and Hosting" />
+</a>
+
+<br/>
+
+<!-- Row 2: Infrastructure as Code, Containers, Orchestration & Web Servers -->
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=terraform,kubernetes,docker,githubactions,ansible,linux,ubuntu,nginx&theme=dark" alt="DevOps, Containers and CI/CD" />
+</a>
+
+<br/>
+
+<!-- Row 3: Core Programming Languages & Core Web -->
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=py,js,ts,bash,go,html,css&theme=dark" alt="Languages" />
+</a>
+
+<br/>
+
+<!-- Row 4: Backend Runtimes, Microservice Frameworks & Styling -->
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,express,fastapi,tailwind,bootstrap&theme=dark" alt="Frameworks and Libraries" />
+</a>
+
+<br/>
+
+<!-- Row 5: Databases, Caching & Storage Engines -->
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,supabase,sqlite&theme=dark" alt="Databases and Persistence" />
+</a>
+
+<br/>
+
+<!-- Row 6: Developer Tooling, Version Control & Design -->
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma&theme=dark" alt="Developer Tools and Workflow" />
+</a>
+
+</div>
+
+<br/>
+
+---
+
+### 🏛️ Architecture & Governance Core Pillars
+
+| Pillar | Engineering Scope & Core Practices |
+| :--- | :--- |
+| **High Availability & Fault Tolerance** | Multi-region active-active and active-passive failover strategies, load balancing (ALB/NLB), auto-scaling groups, and automated disaster recovery (RPO < 5 mins, RTO < 15 mins). |
+| **Security & Compliance** | Zero-Trust architecture, automated IAM least-privilege auditing, encryption-in-transit (mTLS) & at-rest (KMS/HSM), and vulnerability scanning via SonarQube & Trivy. |
+| **Infrastructure as Code (IaC)** | 100% reproducible environments via modular Terraform and state management with remote backend locking (S3/DynamoDB), integrated with GitOps approval loops. |
+| **FinOps & Resource Optimization** | Cost-anomaly telemetry, reserved instance/savings plan utilization models, automated spot instance orchestration, and resource auto-sleep controllers. |
+
+<br/>
+
+---
+
+### 📊 Real-Time GitHub Analytics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=muazpathan&show_icons=true&theme=tokyonight&hide_border=false" alt="Muaz Pathan's GitHub Stats" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=muazpathan&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muazpathan&theme=tokyonight&hide_border=false" alt="Muaz Pathan Contribution Streak" />
+</div>
+
+<br/>
+
+---
+
+### 🧲 Contact & Professional Channels
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muaz-pathan)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muazpathan0416@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-muazpathan.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://muazpathan.vercel.app)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/muazz_pathann)
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:000000&height=40&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:000000&height=40&section=footer" width="100%" alt="Footer Line" />
+</picture>
+
+<sub>© Muaz Pathan • Architected for scale, performance, and operational excellence</sub>
+
+</div>
