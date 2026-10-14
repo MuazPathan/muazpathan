@@ -1,31 +1,117 @@
 <div align="center">
 
 <!-- ======================================================== -->
-<!-- ⚡ NEON MECHA / ANIME HUD BANNER                         -->
+<!-- 🕹️ NEO-BRUTALISM RETRO APPARATUS HEADER (TOP DOCK)       -->
 <!-- ======================================================== -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=slice&color=0:020617,25:1e1035,60:4c0519,100:09090b&height=260&section=header&text=⚡%20MUAZ%20PATHAN%20⚡&fontSize=52&fontColor=00f2fe&fontAlignY=36&desc=BCA%20STUDENT%20%E2%97%86%20ASPIRING%20CLOUD%20ARCHITECT&descAlignY=58&descSize=16&descAlign=50&stroke=ec4899&strokeWidth=1.5" />
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:020617,25:1e1035,60:4c0519,100:09090b&height=260&section=header&text=⚡%20MUAZ%20PATHAN%20⚡&fontSize=52&fontColor=00f2fe&fontAlignY=36&desc=BCA%20STUDENT%20%E2%97%86%20ASPIRING%20CLOUD%20ARCHITECT&descAlignY=58&descSize=16&descAlign=50&stroke=ec4899&strokeWidth=1.5" width="100%" alt="Muaz Pathan Anime HUD" />
-</picture>
-
-<!-- Anime Coding Companion & Cyber Visual Matrix -->
-<table border="0" style="background: transparent; border: none;">
-  <tr align="center">
-    <td>
-      <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="310" height="175" style="border-radius: 12px; border: 2px solid #ec4899; box-shadow: 0 0 20px #ec489955;" alt="Anime Cyber Matrix" />
+<table border="0" style="background: #fdfbf7; border: 3px solid #111827; border-radius: 18px; box-shadow: 6px 6px 0px #111827; padding: 12px 24px; margin-bottom: 24px;">
+  <tr>
+    <td align="left">
+      <font size="4"><b>The Muaz Era 💎</b></font>
     </td>
-    <td>
-      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="310" height="175" style="border-radius: 12px; border: 2px solid #00f2fe; box-shadow: 0 0 20px #00f2fe55;" alt="Lofi Anime Coding" />
+    <td align="right">
+      <a href="https://muazpathan.vercel.app" target="_blank">
+        <img src="https://img.shields.io/badge/⚡_ORIGIN-6ee7b7?style=flat-square&labelColor=111827&color=10b981" alt="Origin" />
+      </a>&nbsp;
+      <a href="https://github.com/muazpathan?tab=repositories" target="_blank">
+        <img src="https://img.shields.io/badge/📦_SNAPSHOTS-38bdf8?style=flat-square&labelColor=111827&color=0284c7" alt="Snapshots" />
+      </a>
     </td>
   </tr>
 </table>
 
-<br/>
+<!-- ======================================================== -->
+<!-- 📟 DASHBOARD HERO & CHRONO-BREAKDOWN HUD                 -->
+<!-- ======================================================== -->
+<table border="0" style="background: #fdfbf7; border: 3px solid #111827; border-radius: 24px; box-shadow: 8px 8px 0px #111827; padding: 24px; width: 100%;">
+  <tr valign="top">
+    <!-- LEFT PANEL: HERO IDENTITY -->
+    <td width="48%" style="padding-right: 20px;">
+      <font size="6"><b>Building Every System,</b></font><br/>
+      <font size="6" color="#10b981"><b>Every Cluster,</b></font><br/>
+      <font size="6"><b>Since Day One!</b></font>
+      <br/><br/>
+      <font size="3"><b>BCA Student ◆ Aspiring Cloud Architect ☁️</b></font>
+      <br/><br/>
+      
+      <!-- Action Pills -->
+      <a href="https://muazpathan.vercel.app" target="_blank">
+        <img src="https://img.shields.io/badge/▶_DEPLOY_PORTFOLIO-10b981?style=for-the-badge&logo=vercel&logoColor=white&labelColor=065f46" alt="Portfolio Launch" />
+      </a>
+      <br/><br/>
+      
+      <!-- Chrono Counters -->
+      <table border="0" style="border-top: 2px solid #e5e7eb; width: 100%; padding-top: 10px;">
+        <tr>
+          <td>
+            <font size="5"><b>100%</b></font><br/>
+            <sub><b>UPTIME GOAL</b></sub>
+          </td>
+          <td>
+            <font size="5"><b>Multi-Cloud</b></font><br/>
+            <sub><b>AWS • AZURE • GCP</b></sub>
+          </td>
+          <td>
+            <font size="5"><b>IaC</b></font><br/>
+            <sub><b>TERRAFORM CORE</b></sub>
+          </td>
+        </tr>
+      </table>
+    </td>
 
-<!-- Japanese HUD Terminal Typewriter -->
-<a href="https://muazpathan.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=18&pause=1000&color=00F2FE&center=true&vCenter=true&random=false&width=650&lines=%E3%80%8A%E7%B3%BB%E7%B5%B1%E8%B5%B7%E5%8B%95%E3%80%8B+BCA+Student+%E2%80%A2+Aspiring+Cloud+Architect;Multi-Cloud+Deployments+%3A%3A+AWS+%E2%80%A2+AZURE+%E2%80%A2+GCP;Orchestrating+K8s+Pods+%26+Terraform+Modules;Leveling+Up+DevOps+Skills+Daily+%E2%9A%A1" alt="Anime Terminal HUD" />
-</a>
+    <!-- RIGHT PANEL: RETRO SYSTEM METRICS CARD -->
+    <td width="52%" style="background: #ffffff; border: 3px solid #111827; border-radius: 18px; box-shadow: 5px 5px 0px #111827; padding: 16px;">
+      <table width="100%" border="0">
+        <tr>
+          <td><b>⏳ Exact Architecture Breakdown</b><br/><sub>DevOps Pipeline ➔ Multi-Cloud Scale</sub></td>
+          <td align="right">🎯</td>
+        </tr>
+      </table>
+
+      <br/>
+
+      <!-- Metrics Triplet -->
+      <table width="100%" border="0">
+        <tr align="center">
+          <td width="33%" style="border: 2px solid #111827; border-radius: 10px; background: #fdfbf7; padding: 8px;">
+            <font size="4"><b>99.9%</b></font><br/><sub>SLA TARGET</sub>
+          </td>
+          <td width="33%" style="border: 2px solid #111827; border-radius: 10px; background: #fdfbf7; padding: 8px;">
+            <font size="4"><b>K8s</b></font><br/><sub>CONTAINERS</sub>
+          </td>
+          <td width="33%" style="border: 2px solid #111827; border-radius: 10px; background: #fdfbf7; padding: 8px;">
+            <font size="4"><b>GitOps</b></font><br/><sub>CI/CD FLOW</sub>
+          </td>
+        </tr>
+      </table>
+
+      <br/>
+
+      <!-- Terminal Typewriter Console -->
+      <div style="background: #0f172a; border-radius: 10px; border: 2px solid #111827; padding: 10px;" align="center">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&pause=1000&color=10B981&center=true&vCenter=true&width=380&lines=STATUS%3A+Deploying+Microservices...;AWS+%2B+Terraform+Modules+Synced;Zero-Trust+Security+Policies+Active" alt="Live Console Terminal" />
+      </div>
+
+      <br/>
+
+      <!-- Progress Meter Bar -->
+      <table width="100%" border="0">
+        <tr>
+          <td><font size="2"><b>Cloud Architect Mastery Milestone</b></font></td>
+          <td align="right"><font size="2" color="#10b981"><b>99.72%</b></font></td>
+        </tr>
+      </table>
+      <img src="https://geps.dev/progress/99?dangerColor=10b981&warningColor=10b981&color=10b981" width="100%" height="20" alt="Milestone Progress" />
+
+      <br/><br/>
+
+      <div align="center">
+        <a href="https://github.com/muazpathan?tab=repositories" target="_blank">
+          <img src="https://img.shields.io/badge/📋_EXPLORE_PROJECT_REPOSITORIES-10b981?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" alt="Copy Full Breakdown" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 <br/><br/>
 
