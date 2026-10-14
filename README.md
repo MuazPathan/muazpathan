@@ -103,7 +103,7 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muazpathan&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
-🧲** Contact**
+🧲 Contact
 
 <div align="center">
 
