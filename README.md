@@ -16,19 +16,22 @@
 <br/><br/>
 
 <!-- ======================================================== -->
-<!-- 🌐 PROFILE & NETWORK NAVIGATION                          -->
+<!-- 🌐 TOP NAVIGATION (SQUARE DARK APP TILES)                -->
 <!-- ======================================================== -->
 <a href="https://muazpathan.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/PRODUCTION_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>&nbsp;
+  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="50" alt="Portfolio" />
+</a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/muaz-pathan" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN_NETWORK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>&nbsp;
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="50" alt="LinkedIn" />
+</a>&nbsp;&nbsp;
 <a href="mailto:muazpathan0416@gmail.com">
-  <img src="https://img.shields.io/badge/DIRECT_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>&nbsp;
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="50" alt="Direct Email" />
+</a>&nbsp;&nbsp;
 <a href="https://github.com/muazpathan?tab=repositories" target="_blank">
-  <img src="https://img.shields.io/badge/REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repos" />
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="50" alt="GitHub Repos" />
+</a>&nbsp;&nbsp;
+<a href="https://instagram.com/muazz_pathann" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="50" alt="Instagram" />
 </a>
 
 </div>
@@ -142,10 +145,21 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muaz-pathan)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muazpathan0416@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-muazpathan.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://muazpathan.vercel.app)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/muazz_pathann)
+<a href="https://linkedin.com/in/muaz-pathan" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="52" alt="LinkedIn" />
+</a>&nbsp;&nbsp;
+<a href="mailto:muazpathan0416@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="52" alt="Direct Email" />
+</a>&nbsp;&nbsp;
+<a href="https://muazpathan.vercel.app" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="52" alt="Production Portfolio" />
+</a>&nbsp;&nbsp;
+<a href="https://github.com/muazpathan" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="52" alt="GitHub Profile" />
+</a>&nbsp;&nbsp;
+<a href="https://instagram.com/muazz_pathann" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="52" alt="Instagram" />
+</a>
 
 <br/><br/>
 
@@ -154,6 +168,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:000000&height=40&section=footer" width="100%" alt="Footer Line" />
 </picture>
 
-<sub>© Muaz Pathan • Architected for scale, performance, and operational excellence</sub>
+<sub>© 2026 Mohammed Muaz Nazir Pathan • Architected for scale, performance, and operational excellence</sub>
 
 </div>
