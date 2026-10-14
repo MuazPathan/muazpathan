@@ -1,116 +1,72 @@
 <div align="center">
 
-<!-- ======================================================== -->
-<!-- 🕹️ NEO-BRUTALISM RETRO APPARATUS HEADER (TOP DOCK)       -->
-<!-- ======================================================== -->
-<table border="0" style="background: #fdfbf7; border: 3px solid #111827; border-radius: 18px; box-shadow: 6px 6px 0px #111827; padding: 12px 24px; margin-bottom: 24px;">
-  <tr>
-    <td align="left">
-      <font size="4"><b>Mr. Muaz Pathan</b></font>
-    </td>
-    <td align="right">
-      <a href="https://muazpathan.vercel.app" target="_blank">
-        <img src="https://img.shields.io/badge/⚡_ORIGIN-6ee7b7?style=flat-square&labelColor=111827&color=10b981" alt="Origin" />
-      </a>&nbsp;
-      <a href="https://github.com/muazpathan?tab=repositories" target="_blank">
-        <img src="https://img.shields.io/badge/📦_SNAPSHOTS-38bdf8?style=flat-square&labelColor=111827&color=0284c7" alt="Snapshots" />
-      </a>
-    </td>
-  </tr>
+<a href="#"><img src="https://img.shields.io/badge/The_Muaz_Era_💎-ffffff?style=for-the-badge&labelColor=ffffff&color=ffffff" alt="The Muaz Era" /></a>
+<a href="https://muazpathan.vercel.app" target="_blank"><img src="https://img.shields.io/badge/⚡_Origin-ffffff?style=for-the-badge&logoColor=111827&labelColor=ffffff&color=10b981" alt="Origin" /></a>
+<a href="https://github.com/muazpathan?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/📦_Copy_Snapshot-10b981?style=for-the-badge&logoColor=white&labelColor=10b981&color=10b981" alt="Snapshot" /></a>
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="48%" valign="top">
+
+<h2>Living Every Instant,<br/><font color="#10b981">Every Cluster,</font><br/>Since Day One!</h2>
+
+<b>BCA Student ◆ Aspiring Cloud Architect ☁️</b><br/><br/>
+
+<a href="https://muazpathan.vercel.app" target="_blank"><img src="https://img.shields.io/badge/DEPLOY_PORTFOLIO_→-10b981?style=for-the-badge&logo=vercel&logoColor=white" /></a>&nbsp;&nbsp;<a href="https://linkedin.com/in/muaz-pathan" target="_blank"><img src="https://img.shields.io/badge/CONFIG_ORIGIN-ffffff?style=for-the-badge&logoColor=111827&color=e2e8f0" /></a>
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center"><h3>100%</h3><sub>UPTIME GOAL</sub></td>
+<td align="center"><h3>Multi-Cloud</h3><sub>AWS • AZURE • GCP</sub></td>
+<td align="center"><h3>IaC</h3><sub>TERRAFORM CORE</sub></td>
+</tr>
 </table>
 
-<!-- ======================================================== -->
-<!-- 📟 DASHBOARD HERO & CHRONO-BREAKDOWN HUD                 -->
-<!-- ======================================================== -->
-<table border="0" style="background: #fdfbf7; border: 3px solid #111827; border-radius: 24px; box-shadow: 8px 8px 0px #111827; padding: 24px; width: 100%;">
-  <tr valign="top">
-    <!-- LEFT PANEL: HERO IDENTITY -->
-    <td width="48%" style="padding-right: 20px;">
-      <font size="6"><b>Building Every System,</b></font><br/>
-      <font size="6" color="#10b981"><b>Every Cluster,</b></font><br/>
-      <font size="6"><b>Since Day One!</b></font>
-      <br/><br/>
-      <font size="3"><b>BCA Student ◆ Aspiring Cloud Architect ☁️</b></font>
-      <br/><br/>
-      
-      <!-- Action Pills -->
-      <a href="https://muazpathan.vercel.app" target="_blank">
-        <img src="https://img.shields.io/badge/▶_DEPLOY_PORTFOLIO-10b981?style=for-the-badge&logo=vercel&logoColor=white&labelColor=065f46" alt="Portfolio Launch" />
-      </a>
-      <br/><br/>
-      
-      <!-- Chrono Counters -->
-      <table border="0" style="border-top: 2px solid #e5e7eb; width: 100%; padding-top: 10px;">
-        <tr>
-          <td>
-            <font size="5"><b>100%</b></font><br/>
-            <sub><b>UPTIME GOAL</b></sub>
-          </td>
-          <td>
-            <font size="5"><b>Multi-Cloud</b></font><br/>
-            <sub><b>AWS • AZURE • GCP</b></sub>
-          </td>
-          <td>
-            <font size="5"><b>IaC</b></font><br/>
-            <sub><b>TERRAFORM CORE</b></sub>
-          </td>
-        </tr>
-      </table>
-    </td>
+</td>
+<td width="52%" valign="top">
 
-    <!-- RIGHT PANEL: RETRO SYSTEM METRICS CARD -->
-    <td width="52%" style="background: #ffffff; border: 3px solid #111827; border-radius: 18px; box-shadow: 5px 5px 0px #111827; padding: 16px;">
-      <table width="100%" border="0">
-        <tr>
-          <td><b>⏳ Exact Architecture Breakdown</b><br/><sub>DevOps Pipeline ➔ Multi-Cloud Scale</sub></td>
-          <td align="right">🎯</td>
-        </tr>
-      </table>
+<table>
+<tr>
+<td><b>⏳ Architecture Breakdown</b><br/><sub>DevOps Pipeline ➔ Multi-Cloud Scale</sub></td>
+<td align="right">🎯</td>
+</tr>
+</table>
 
-      <br/>
+<br/>
 
-      <!-- Metrics Triplet -->
-      <table width="100%" border="0">
-        <tr align="center">
-          <td width="33%" style="border: 2px solid #111827; border-radius: 10px; background: #fdfbf7; padding: 8px;">
-            <font size="4"><b>99.9%</b></font><br/><sub>SLA TARGET</sub>
-          </td>
-          <td width="33%" style="border: 2px solid #111827; border-radius: 10px; background: #fdfbf7; padding: 8px;">
-            <font size="4"><b>K8s</b></font><br/><sub>CONTAINERS</sub>
-          </td>
-          <td width="33%" style="border: 2px solid #111827; border-radius: 10px; background: #fdfbf7; padding: 8px;">
-            <font size="4"><b>GitOps</b></font><br/><sub>CI/CD FLOW</sub>
-          </td>
-        </tr>
-      </table>
+<table>
+<tr>
+<td align="center"><h3>99.9%</h3><sub>SLA TARGET</sub></td>
+<td align="center"><h3>K8s</h3><sub>PODS</sub></td>
+<td align="center"><h3>GitOps</h3><sub>CI / CD</sub></td>
+</tr>
+</table>
 
-      <br/>
+<br/>
 
-      <!-- Terminal Typewriter Console -->
-      <div style="background: #0f172a; border-radius: 10px; border: 2px solid #111827; padding: 10px;" align="center">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&pause=1000&color=10B981&center=true&vCenter=true&width=380&lines=STATUS%3A+Deploying+Microservices...;AWS+%2B+Terraform+Modules+Synced;Zero-Trust+Security+Policies+Active" alt="Live Console Terminal" />
-      </div>
+<div align="center">
+<a href="https://muazpathan.vercel.app" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=1000&color=10B981&background=0F172A&center=true&vCenter=true&width=360&height=34&lines=Live+Clock%3A+Active+Cluster+Sync;STATUS%3A+Deploying+Microservices;Zero-Trust+Security+Policies%3A+OK" /></a>
+</div>
 
-      <br/>
+<br/>
 
-      <!-- Progress Meter Bar -->
-      <table width="100%" border="0">
-        <tr>
-          <td><font size="2"><b>Cloud Architect Mastery Milestone</b></font></td>
-          <td align="right"><font size="2" color="#10b981"><b>99.72%</b></font></td>
-        </tr>
-      </table>
-      <img src="https://geps.dev/progress/99?dangerColor=10b981&warningColor=10b981&color=10b981" width="100%" height="20" alt="Milestone Progress" />
+<b>Cloud Architect Mastery Milestone</b><br/>
+<img src="https://geps.dev/progress/99?dangerColor=10b981&warningColor=10b981&color=10b981" width="100%" />
 
-      <br/><br/>
+<br/><br/>
 
-      <div align="center">
-        <a href="https://github.com/muazpathan?tab=repositories" target="_blank">
-          <img src="https://img.shields.io/badge/📋_EXPLORE_PROJECT_REPOSITORIES-10b981?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" alt="Copy Full Breakdown" />
-        </a>
-      </div>
-    </td>
-  </tr>
+<div align="center">
+<a href="https://github.com/muazpathan?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/📋_EXPLORE_PROJECT_REPOSITORIES-10b981?style=for-the-badge&logo=github&logoColor=white&labelColor=10b981" width="100%"/></a>
+</div>
+
+</td>
+</tr>
 </table>
 
 <br/><br/>
