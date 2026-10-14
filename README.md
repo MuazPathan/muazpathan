@@ -24,4 +24,35 @@
 <!-- 🧭 SQUARE DARK NAVIGATION TILES                          -->
 <!-- ======================================================== -->
 <a href="https://muazpathan.vercel.app" target="_blank">
-  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="48" alt="
+  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="48" alt="Portfolio" />
+</a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/muaz-pathan" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="48" alt="LinkedIn" />
+</a>&nbsp;&nbsp;
+<a href="mailto:muazpathan0416@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="48" alt="Email" />
+</a>&nbsp;&nbsp;
+<a href="https://github.com/muazpathan?tab=repositories" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="48" alt="Repositories" />
+</a>&nbsp;&nbsp;
+<a href="https://instagram.com/muazz_pathann" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="48" alt="Instagram" />
+</a>
+
+</div>
+
+<br/>
+
+---
+
+### ⚡ Player Profile & Quest Log
+
+> 🎓 BCA Student on a journey into high-performance cloud engineering, distributed architectures, and DevOps automation. When I'm not writing code or building labs, I'm deep-diving into multi-cloud deployments, containers, and Linux internals.
+
+```yaml
+profile:
+  identity: "Mohammed Muaz Nazir Pathan"
+  current_role: "BCA Student | Aspiring Cloud Architect"
+  focus_areas: ["Cloud Infrastructure (AWS/Azure/GCP)", "Docker & Kubernetes", "Full-Stack Web Systems"]
+  quest_objective: "Mastering cloud topologies, infrastructure automation & scalable backends"
+  status: "🟢 Leveling up skills & building open-source projects"
