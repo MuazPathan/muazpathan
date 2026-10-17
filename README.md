@@ -19,7 +19,7 @@
 
 ---
 
-## `[ STATUS MATRIX ]`
+## STATUS MATRIX 
 
 ```yaml
 operator:
@@ -41,7 +41,7 @@ stack:
 
 ---
 
-## `[ TECH ARSENAL ]`
+##  TECH ARSENAL 
 
 <p align="center">
   <b>Cloud</b><br>
@@ -56,7 +56,7 @@ stack:
 
 ---
 
-## `[ LIVE METRICS ]`
+## METRICS
 
 <table align="center" width="100%">
   <tr>
@@ -75,7 +75,7 @@ stack:
 
 ---
 
-## `[ COMMS DOCKING BAY ]`
+## DOCKING BAY
 
 <p align="center">
   <a href="https://muazpathan.vercel.app"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Portfolio" /></a>
