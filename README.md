@@ -1,136 +1,134 @@
+<!-- ░░░ MUAZ PATHAN :: SYSTEM MANIFEST ░░░ -->
+
 <div align="center">
 
-<img src="./assets/hero-dashboard.svg" width="200%" alt="Muaz Pathan Hero Dashboard" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0d1117,60:0a2e14,100:00ff41&text=MUAZ%20PATHAN&fontColor=00ff41&fontSize=64&fontAlignY=38&animation=fadeIn&desc=%5B%20CLOUD%20ARCHITECT%20%2F%2F%20FINOPS%20%2F%2F%20SYSTEMS%20%26%20DATA%20ENGINEERING%20%5D&descColor=9be9a8&descSize=16&descAlignY=60" alt="Muaz Pathan banner" width="100%" />
 
-<br/><br/>
+```text
+┌──────────────────────────────────────────────────────────┐
+│  > BOOT SEQUENCE ........................... [  OK  ]    │
+│  > IDENTITY ................................ muazpathan  │
+│  > UPLINK .................................. ONLINE      │
+└──────────────────────────────────────────────────────────┘
+```
 
-<!-- TOP NAVIGATION APP TILES -->
-<a href="https://muazpathan.vercel.app" target="_blank">
-  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="48" alt="Portfolio" />
-</a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/muaz-pathan" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="48" alt="LinkedIn" />
-</a>&nbsp;&nbsp;
-<a href="mailto:muazpathan0416@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="48" alt="Email" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/muazpathan?tab=repositories" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="48" alt="GitHub Repos" />
-</a>&nbsp;&nbsp;
-<a href="https://instagram.com/muazz_pathann" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="48" alt="Instagram" />
-</a>
+### `[ COMMS_DOCK ]`
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://muazpathan.vercel.app" target="_blank"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Portfolio" /></a><br/>
+      <sub><b>PORTFOLIO</b></sub>
+    </td>
+    <td align="center">
+      <a href="https://linkedin.com/in/muaz-pathan" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" /></a><br/>
+      <sub><b>LINKEDIN</b></sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/muazpathan" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" /></a><br/>
+      <sub><b>GITHUB</b></sub>
+    </td>
+    <td align="center">
+      <a href="mailto:muazpathan0416@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" /></a><br/>
+      <sub><b>EMAIL</b></sub>
+    </td>
+    <td align="center">
+      <a href="https://instagram.com/muazz_pathann" target="_blank"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" /></a><br/>
+      <sub><b>INSTAGRAM</b></sub>
+    </td>
+  </tr>
+</table>
 
 </div>
-
-<br/>
 
 ---
 
-### 👨‍💻 Executive Summary & Core Mandate
+### `[ SYSTEM_TELEMETRY :: manifest.yaml ]`
 
-> BCA Student and aspiring Cloud Architect specializing in multi-region infrastructure design, enterprise migration, zero-downtime microservices deployments, and automated cloud governance.Strictly enforcing Zero-Trust security policies, and optimizing cloud spend through comprehensive FinOps practices.
+```yaml
+# ═══════════════════════════════════════════════════════
+#  SYSTEM MANIFEST  //  node: muazpathan  //  status: ACTIVE
+# ═══════════════════════════════════════════════════════
 
+who_i_am:
+  name: Muaz Pathan
+  handle: muazpathan
+  role: Aspiring Cloud Architect
+  discipline: [FinOps, Systems Engineering, Data Engineering]
+  mode: always-building, always-learning
 
-* 💬 **Ask me about**: AWS / Azure / GCP architectures, Docker, Kubernetes, Terraform, microservices, Linux kernel tuning, and Site Reliability Engineering (SRE).
-* ⚡ **Fun fact**: *"There is no cloud; it's just someone else's computer... until the first invoice drops."*
+what_i_do:
+  - design cloud infrastructure across AWS, Azure and GCP
+  - containerize and orchestrate workloads with Docker and Kubernetes
+  - codify environments with Terraform (infra as code, no click-ops)
+  - build backends and data pipelines in Python, Go and Node.js
+  - ship full-stack apps with Next.js, Postgres and Redis
 
-<br/>
+core_directive: >
+  Build systems that are reliable, observable and cost-aware:
+  architected deliberately, automated end to end,
+  and understood well enough to be debugged at 3 a.m.
+
+finops_sre_principles:
+  - "if it isn't measured, it can't be optimized"
+  - "cost is a first-class architectural constraint"
+  - "tag everything, attribute every dollar"
+  - "right-size first, then reserve, then commit"
+  - "automate toil away; runbooks beat heroics"
+  - "design for failure; define SLOs before you build"
+  - "everything as code: versioned, reviewed, reproducible"
+```
 
 ---
 
-### 🛠️ Technologies & Platforms
+### `[ 3D_CONTRIBUTION_GRAPH ]`
 
 <div align="center">
 
-<!-- Row 1: Cloud Providers & Edge Platforms -->
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase,cloudflare,vercel,netlify&theme=dark" alt="Cloud Providers and Hosting" />
-</a>
-
-<br/>
-
-<!-- Row 2: Infrastructure as Code, Containers, Orchestration & Web Servers -->
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=terraform,kubernetes,docker,githubactions,ansible,linux,ubuntu,nginx&theme=dark" alt="DevOps, Containers and CI/CD" />
-</a>
-
-<br/>
-
-<!-- Row 3: Core Programming Languages & Core Web -->
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,bash,go,html,css&theme=dark" alt="Languages" />
-</a>
-
-<br/>
-
-<!-- Row 4: Backend Runtimes, Microservice Frameworks & Styling -->
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,express,fastapi,tailwind,bootstrap&theme=dark" alt="Frameworks and Libraries" />
-</a>
-
-<br/>
-
-<!-- Row 5: Databases, Caching & Storage Engines -->
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,supabase,sqlite&theme=dark" alt="Databases and Persistence" />
-</a>
-
-<br/>
-
-<!-- Row 6: Developer Tooling, Version Control & Design -->
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma&theme=dark" alt="Developer Tools and Workflow" />
-</a>
+<img src="./profile-3d-contrib/profile-green-animate.svg" alt="Muaz Pathan 3D contribution graph" width="100%" />
 
 </div>
 
+---
 
-
-### 📊 Real-Time GitHub Analytics
+### `[ TECH_STACK :: loaded_modules ]`
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muazpathan&show_icons=true&theme=tokyonight&hide_border=false" alt="Muaz Pathan's GitHub Stats" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muazpathan&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muazpathan&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+
+**`// CLOUD / EDGE`**<br/>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel&theme=dark" alt="Cloud and Edge" />
+
+**`// DEVOPS / CONTAINERS`**<br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions&theme=dark" alt="DevOps and Containers" />
+
+**`// LANGUAGES`**<br/>
+<img src="https://skillicons.dev/icons?i=python,go,js,bash,java&theme=dark" alt="Languages" />
+
+**`// FRAMEWORKS`**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,nextjs,react&theme=dark" alt="Frameworks" />
+
+**`// DATABASES`**<br/>
+<img src="https://skillicons.dev/icons?i=postgres,redis&theme=dark" alt="Databases" />
+
+**`// TOOLING`**<br/>
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark" alt="Tooling" />
+
 </div>
 
-### 🧲 Contact
+---
 
 <div align="center">
 
-<a href="https://linkedin.com/in/muaz-pathan" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="52" alt="LinkedIn" />
-</a>&nbsp;&nbsp;
-<a href="mailto:muazpathan0416@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="52" alt="Direct Email" />
-</a>&nbsp;&nbsp;
-<a href="https://muazpathan.vercel.app" target="_blank">
-  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="52" alt="Production Portfolio" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/muazpathan" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="52" alt="GitHub Profile" />
-</a>&nbsp;&nbsp;
-<a href="https://instagram.com/muazz_pathann" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="52" alt="Instagram" />
-</a>
+```text
+┌──────────────────────────────────────────────────────────┐
+│  $ ./status --node muazpathan                            │
+│  > EXECUTION ............ COMPLETE   (exit code 0)       │
+│  > UPTIME ............... 24/7 // LEARNING IN PROGRESS   │
+│  > NEXT ................. deploy. observe. optimize.     │
+│  $ _                                                     │
+└──────────────────────────────────────────────────────────┘
+```
 
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:000000&height=40&section=footer" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:000000&height=40&section=footer" width="100%" alt="Footer Line" />
-</picture>
-
-<sub>© Muaz Pathan • BCA Student & Aspiring Cloud Architect</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00ff41,60:0a2e14,100:0d1117&section=footer" alt="footer" width="100%" />
 
 </div>
