@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="./assets/banner-night.svg" width="100%" alt="MUAZ — The Cloud Architect" />
+  <a href="https://muazpathan.lovable.app">
+  <img src="https://image.thum.io/get/width/1200/crop/800/https://muazpathan.lovable.app" width="100%" alt="Muaz Pathan Portfolio Website" />
+</a>
 </p>
 
 <p align="center">
