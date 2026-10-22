@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://muazpathan.vercel.app">
+  <a href="https://muazbuilds.vercel.app">
   <img src="Banner.png" width="200%" alt="Muaz Pathan Portfolio Website" />
 </a>
 </p>
