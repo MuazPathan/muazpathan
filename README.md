@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://muazbuilds.vercel.app">
+  <a href="https://muaz-builds.vercel.app">
   <img src="Banner.png" width="200%" alt="Muaz Pathan Portfolio Website" />
 </a>
 </p>
 
 <p align="center">
-  <a href="https://muazpathan.vercel.app">
+  <a href="https://muaz-builds.vercel.app">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=900&color=39FF7A&background=070D1400&center=true&vCenter=true&width=820&height=50&lines=%3E+BOOTING+MUAZ-OS+v1.0+...;%3E+LOADING+MODULES%3A+AWS+%7C+AZURE+%7C+GCP;%3E+terraform+apply+-auto-approve+%5BOK%5D;%3E+kubectl+get+pods+%E2%86%92+ALL+RUNNING;%3E+finops+audit+%E2%86%92+COST+OPTIMIZED;%3E+ALL+SYSTEMS+NOMINAL" alt="Boot sequence" />
   </a>
 </p>
@@ -94,10 +94,10 @@ version = "always upgrading"
 ## DOCKING BAY
 
 <p align="center">
-  <a href="https://muazpathan.vercel.app"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Portfolio" /></a>
+  <a href="https://muaz-builds.vercel.app"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/muaz-pathan"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" /></a>
   <a href="https://github.com/muazpathan"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" /></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" /></a>
+  <a href="mailto:muazpathan0416@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" /></a>
   <a href="https://instagram.com/muazz_pathann"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" /></a>
 </p>
 
