@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://muazpathan.lovable.app">
-  <img src="https://image.thum.io/get/width/1200/crop/800/https://muazpathan.lovable.app" width="100%" alt="Muaz Pathan Portfolio Website" />
+  <a href="https://muazpathan.vercel.app">
+  <img src=".assets/banner.jpeg" width="100%" alt="Muaz Pathan Portfolio Website" />
 </a>
 </p>
 
