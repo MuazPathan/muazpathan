@@ -9,6 +9,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=900&color=39FF7A&background=070D1400&center=true&vCenter=true&width=820&height=50&lines=%3E+BOOTING+MUAZ-OS+v1.0+...;%3E+LOADING+MODULES%3A+AWS+%7C+AZURE+%7C+GCP;%3E+terraform+apply+-auto-approve+%5BOK%5D;%3E+kubectl+get+pods+%E2%86%92+ALL+RUNNING;%3E+finops+audit+%E2%86%92+COST+OPTIMIZED;%3E+ALL+SYSTEMS+NOMINAL" alt="Boot sequence" />
   </a>
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MuazPathan&color=39FF7A&style=flat-square" alt="Profile views" />
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,terraform,postgres&theme=dark" alt="Core modules" />
